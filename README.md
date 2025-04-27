@@ -65,7 +65,7 @@ The repository showcases a diverse range of visualizations created using Power B
 
 To access the dataset and view the visualizations:
 
-1. Clone this repository: `git clone https://github.com/your-username/indian-election-analysis.git`
+1. Clone this repository: `git clone https://github.com/akil555/Indian-Election-Analysis.git`
 2. Navigate to the `/dataset` directory to access the dataset files.
 3. Open the Power BI file (`.pbix`) using Power BI Desktop.
 4. Connect the Power BI file to the dataset within the repository.
